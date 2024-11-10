@@ -15,7 +15,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: KubernetesActivityRontale
+  name: k8s-activity-DanRontale 
   labels:
     app: nginx
 spec:
